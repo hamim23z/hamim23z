@@ -2,8 +2,8 @@
 
 - 🎤 Check out my startup, Smart Study! And join the waitlist! https://smart-study-official.vercel.app/
 - 🔭 I’m currently a Software Engineer Intern at the New York City Department of Records (DORIS).
-- 📚 My tech stack consists of HTML, CSS, JS, Java, Python, React, NextJS, Typescript, and NodeJS
-- 🌱 I’m currently learning and sharpening my skills on Flask, C/C++, 
+- 📚 My tech stack consists of HTML, CSS, JS, Java, Python, React, NextJS, Typescript, NodeJS, OpenAI, and LLM's. 
+- 🌱 I’m currently learning and sharpening my skills in Flask, C/C++, 
 - 🔍 I'm interested in learning more about AI and Cybersecurity
 - 📫 How to reach me: Email at hamimc232@gmail.com or my LinkedIn at https://www.linkedin.com/in/hamimc/
-- ⚡ Fun fact: I love playing basketball. 🏀
+- ⚡ Fun fact: I love playing basketball, soccer, and video games. 
