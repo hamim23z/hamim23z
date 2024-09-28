@@ -2,7 +2,6 @@
 
 - 🎤 Check out my startup, Smart Study! And join the waitlist! https://smart-study-official.vercel.app/
 - ⌚ The tentative release date for Smart Study is end of October - middle of November.
-  
 - 🔭 I’m currently a Software Engineer Intern at the New York City Department of Records (DORIS).
 - 📚 My tech stack consists of HTML, CSS, JS, Java, Python, React, NextJS, Typescript, NodeJS, OpenAI, and LLM's. 
 - 🌱 I’m currently learning and sharpening my skills in Flask, C/C++, 
