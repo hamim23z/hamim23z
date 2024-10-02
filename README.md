@@ -1,6 +1,6 @@
 ## Hello! I'm Hamim Choudhury, a current junior at The City College of New York pursuing a major in Computer Science. 👋
 
-- 🎤 Check out my startup, Smart Study! And join the waitlist! https://smart-study-official.vercel.app/
+- 🎤 Check out my startup, Smart Study! And join the waitlist! https://smartstudycs.vercel.app
 - ⌚ The tentative release date for Smart Study is end of October - middle of November.
 - 🔭 I’m currently an Intern at the New York City Department of Records (DORIS).
 - 📚 My tech stack consists of HTML, CSS, JS, Java, Python, React, NextJS, Typescript, NodeJS, OpenAI, and LLM's. 
