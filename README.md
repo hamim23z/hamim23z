@@ -2,7 +2,7 @@
 
 - 🎤 Check out my startup, Smart Study! And join the waitlist! https://smartstudycs.vercel.app
 - ⌚ The tentative release date for Smart Study is the middle of November.
-- 🔭 I’m currently an Intern at the New York City Department of Records (DORIS).
+- 🔭 I’m currently an Intern at the New York City Department of Records and Information Services (DORIS).
 - 📚 My tech stack consists of HTML, CSS, JS, Java, Python, React, NextJS, Typescript, NodeJS, OpenAI, and LLM's. 
 - 🌱 I’m currently learning and sharpening my skills in Flask, C/C++, 
 - 🔍 I'm interested in learning more about AI and Cybersecurity
