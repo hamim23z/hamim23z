@@ -1,4 +1,4 @@
-## Hello! I'm Hamim Choudhury, a current junior at The City College of New York pursuing a major in Computer Science. 👋
+## Hello! I'm Hamim Choudhury, a current senior at The City College of New York pursuing a major in Computer Science. 👋
 
 - ⚡ Incoming Systems Engineer Intern at Bloom Energy.
 - 🔭 I’m a previous SWE + Web Dev Intern at the NYC Department of Records and Information Services (DORIS) and NYC Department of Design and Construction (DDC).
